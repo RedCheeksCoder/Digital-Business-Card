@@ -158,7 +158,7 @@ function App() {
       <Router>
         <div>
           <Routes>
-            <Route path="/employee/:id" element={<EmployeeCardWrapper />} />
+            <Route path="employee/:id" element={<EmployeeCardWrapper />} />
           </Routes>
         </div>
       </Router>
