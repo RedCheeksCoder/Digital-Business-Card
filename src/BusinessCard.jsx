@@ -83,15 +83,17 @@ const Contact = styled.div`
 `;
 
 const Info = styled.p`
+  p,
   a {
-    text-decoration: none;
     box-sizing: border-box;
     max-width: 380px;
     font-size: large;
     word-wrap: break-word;
     overflow-wrap: break-word;
     white-space: normal;
+    text-decoration: none;
   }
+
   h4 {
     font-size: 0.8rem;
   }
