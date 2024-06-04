@@ -171,7 +171,12 @@ const BusinessCard = ({ employee }) => {
               width={30}
             />
             <Info>
-              <p>https://web.inzpect.com/</p>
+              <a
+                href="https://web.inzpect.com/"
+                target="_blank"
+                rel="noopener noreferrer">
+                https://web.inzpect.com/
+              </a>
               <h4>Website</h4>
             </Info>
           </Contact>
