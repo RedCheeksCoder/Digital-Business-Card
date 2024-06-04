@@ -74,7 +74,7 @@ const Contact = styled.div`
   font-size: 0.4rem;
   display: flex;
   align-items: center;
-  padding: 0.2rem;
+  padding: 0.1rem;
   margin: 1rem;
   h4 {
     color: #808080;
@@ -84,6 +84,8 @@ const Contact = styled.div`
 
 const Info = styled.p`
   p {
+    box-sizing: border-box;
+    max-width: 380px;
     font-size: large;
     word-wrap: break-word;
     overflow-wrap: break-word;
@@ -112,7 +114,7 @@ const BusinessCard = ({ employee }) => {
 
   //console.log(vcf.getFormattedString());
   const fileName = employee.firstName.toLowerCase().replace(/\s+/g, "");
-  console.log(fileName);
+  //console.log(fileName);
   return (
     <>
       <Container>
@@ -178,7 +180,12 @@ const BusinessCard = ({ employee }) => {
               width={30}
             />
             <Info>
-              <p>https://www.facebook.com/inzpectech</p>
+              <a
+                href="https://www.facebook.com/inzpectech"
+                target="_blank"
+                rel="noopener noreferrer">
+                www.facebook.com/inzpectech
+              </a>
               <h4>Facebook page</h4>
             </Info>
           </Contact>
