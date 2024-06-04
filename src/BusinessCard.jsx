@@ -8,8 +8,8 @@ import vCard from "vcards-js";
 
 //=====================VCF====================
 const Container = styled.div`
-  max-width: 480px;
-  min-width: 360px;
+  max-width: 420px;
+  min-width: 300px;
   margin: auto;
   padding: 1rem;
 `;
@@ -86,6 +86,8 @@ const Info = styled.p`
   p {
     font-size: large;
     word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
   }
   h4 {
     font-size: 0.8rem;
