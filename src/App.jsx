@@ -156,11 +156,9 @@ function App() {
   return (
     <>
       <Router>
-        <div>
-          <Routes>
-            <Route path="employee/:id" element={<EmployeeCardWrapper />} />
-          </Routes>
-        </div>
+        <Routes>
+          <Route path="employee/:id" element={<EmployeeCardWrapper />} />
+        </Routes>
       </Router>
     </>
   );
