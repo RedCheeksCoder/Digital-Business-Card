@@ -83,7 +83,8 @@ const Contact = styled.div`
 `;
 
 const Info = styled.p`
-  p {
+  a {
+    text-decoration: none;
     box-sizing: border-box;
     max-width: 380px;
     font-size: large;
