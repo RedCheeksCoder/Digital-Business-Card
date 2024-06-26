@@ -89,6 +89,12 @@ const Info = styled.p`
     overflow-wrap: break-word;
     white-space: normal;
   }
+  p {
+    font-size: large;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
   h4 {
     font-size: 0.8rem;
   }
