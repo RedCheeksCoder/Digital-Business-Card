@@ -83,7 +83,7 @@ const Contact = styled.div`
 `;
 
 const Info = styled.p`
-  p {
+  a {
     font-size: large;
     word-wrap: break-word;
     overflow-wrap: break-word;
