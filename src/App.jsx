@@ -141,6 +141,17 @@ const employees = [
     email: "maria.analou.tunan@inzpect.com",
     displayPic: analou,
   },
+   {
+    id: 12,
+    name: "Gianan, Jon Alvin G.",
+    firstName: "Jon Alvin",
+    middleName: "G.",
+    lastName: "Gianan",
+    contact: "+639088959061",
+    position: "Technical Sales",
+    email: "jon.gianan@inzpect.com",
+    displayPic: rolli,
+  },
 ];
 
 const imageData = [{ airplane: "./account.png" }];
