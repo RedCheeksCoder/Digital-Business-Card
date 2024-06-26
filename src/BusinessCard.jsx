@@ -166,7 +166,7 @@ const BusinessCard = ({ employee }) => {
               width={30}
             />
             <Info>
-              <p>https://web.inzpect.com/</p>
+              <a href="https://web.inzpect.com/">Inzpect Website</a>
               <h4>Website</h4>
             </Info>
           </Contact>
@@ -178,7 +178,7 @@ const BusinessCard = ({ employee }) => {
               width={30}
             />
             <Info>
-              <p>https://www.facebook.com/inzpectech</p>
+              <a href="https://www.facebook.com/inzpectech">Inzpect Facebook Page</a>
               <h4>Facebook page</h4>
             </Info>
           </Contact>
