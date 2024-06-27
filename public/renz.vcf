@@ -1,8 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Renz D. Dela Cruz
-N;CHARSET=UTF-8:Dela Cruz;Renz;D.;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:renz.delacruz@inzpect.com
-ROLE;CHARSET=UTF-8:Technical Sales
-REV:2024-06-03T07:13:28.039Z
+FN:Dela Cruz, Renz D.
+TEL;TYPE=WORK:+639088923622
+EMAIL:renz.delacruz@inzpect.com
+ORG:Technical Sales at Inzpect Technologies, Inc.
 END:VCARD
