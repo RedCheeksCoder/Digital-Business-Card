@@ -2,6 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Tunan, Maria Analou R.
 TEL;TYPE=WORK:+639499946486
+TEL;TYPE=WORK,VOICE:+632-8553-9142
+TEL;TYPE=WORK,VOICE:+632-8553-9143
 EMAIL:maria.analou.tunan@inzpect.com
 ORG:Sales Coordinator at Inzpect Technologies, Inc.
 END:VCARD
