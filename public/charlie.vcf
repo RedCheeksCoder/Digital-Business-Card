@@ -2,6 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Belvis, Charlie D.
 TEL;TYPE=WORK:+639088636156
+TEL;TYPE=WORK,VOICE:+632-8553-9142
+TEL;TYPE=WORK,VOICE:+632-8553-9143
 EMAIL:charlie.belvis@inzpect.com
 ORG:Sales Engineer at Inzpect Technologies, Inc.
 END:VCARD
