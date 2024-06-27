@@ -1,8 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joward V. Bendijo
-N;CHARSET=UTF-8:Bendijo;Joward;V.;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:joward.bendijo@inzpect.com
-ROLE;CHARSET=UTF-8:Sales Engineer
-REV:2024-06-03T07:09:07.619Z
+FN:Bendijo, Joward V.
+TEL;TYPE=WORK:+639088923623
+EMAIL:joward.bendijo@inzpect.com
+ORG:Sales Engineer at Inzpect Technologies, Inc.
 END:VCARD
