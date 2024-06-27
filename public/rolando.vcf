@@ -1,9 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Rolando T. Laya
-N;CHARSET=UTF-8:Laya;Rolando;T.;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:rolando_laya@inzpect.com
-ROLE;CHARSET=UTF-8:President / Sales & Marketing Manager
-REV:2024-06-03T07:14:11.720Z
+FN:Laya, Rolando T.
+TEL;TYPE=WORK:+639189215744
+EMAIL:rolando_laya@inzpect.com
+ORG:President / Sales & Marketing Manager at Inzpect Technologies, Inc.
 END:VCARD
-
