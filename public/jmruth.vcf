@@ -1,8 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Jm Ruth Y. Laurenio
-N;CHARSET=UTF-8:Laurenio;Jm Ruth;Y.;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:ruth.laurenio@inzpect.com
-ROLE;CHARSET=UTF-8:Technical Sales
-REV:2024-06-03T07:14:33.408Z
+FN:Laurenio, Jm Ruth Y.
+TEL;TYPE=WORK:+639499946485
+EMAIL:ruth.laurenio@inzpect.com
+ORG:Technical Sales at Inzpect Technologies, Inc.
 END:VCARD
