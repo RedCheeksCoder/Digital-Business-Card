@@ -2,6 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Laya, Rolando T.
 TEL;TYPE=WORK:+639189215744
+TEL;TYPE=WORK,VOICE:+632-8553-9142
+TEL;TYPE=WORK,VOICE:+632-8553-9143
 EMAIL:rolando_laya@inzpect.com
 ORG:President / Sales & Marketing Manager at Inzpect Technologies, Inc.
 END:VCARD
