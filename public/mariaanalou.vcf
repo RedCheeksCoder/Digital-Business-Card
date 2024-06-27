@@ -1,8 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Maria Analou R. Tunan
-N;CHARSET=UTF-8:Tunan;Maria Analou;R.;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:maria.analou.tunan@inzpect.com
-ROLE;CHARSET=UTF-8:Sales Coordinator
-REV:2024-06-03T07:15:59.154Z
+FN:Tunan, Maria Analou R.
+TEL;TYPE=WORK:+639499946486
+EMAIL:maria.analou.tunan@inzpect.com
+ORG:Sales Coordinator at Inzpect Technologies, Inc.
 END:VCARD
