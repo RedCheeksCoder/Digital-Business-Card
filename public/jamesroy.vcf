@@ -2,6 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Santos, James Roy B.
 TEL;TYPE=WORK:+639088923618
+TEL;TYPE=WORK,VOICE:+632-8553-9142
+TEL;TYPE=WORK,VOICE:+632-8553-9143
 EMAIL:james.santos@inzpect.com
 ORG:Senior Sales Supervisor at Inzpect Technologies, Inc.
 END:VCARD
