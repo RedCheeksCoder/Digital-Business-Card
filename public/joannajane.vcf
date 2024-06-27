@@ -2,6 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Cariño, Joana Jane M.
 TEL;TYPE=WORK:+6399088923621
+TEL;TYPE=WORK,VOICE:+632-8553-9142
+TEL;TYPE=WORK,VOICE:+632-8553-9143
 EMAIL:joana.carino@inzpect.com
 ORG:Technical Sales at Inzpect Technologies, Inc.
 END:VCARD
