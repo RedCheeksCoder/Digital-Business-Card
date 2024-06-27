@@ -1,8 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Joanah Lou I. Ruiz
-N;CHARSET=UTF-8:Ruiz;Joanah Lou;I.;;
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:joanah.ruiz@inzpect.com
-ROLE;CHARSET=UTF-8:Technical Sales
-REV:2024-06-03T07:15:12.118Z
+FN:Ruiz, Joanah Lou I.
+TEL;TYPE=WORK:+639088959061
+EMAIL:joanah.ruiz@inzpect.com
+ORG:Technical Sales at Inzpect Technologies, Inc.
 END:VCARD
