@@ -4,6 +4,7 @@ import briefcase from "./images/briefcase.png";
 import facebook from "./images/facebook.png";
 import mail from "./images/mail.png";
 import phone2 from "./images/phone2.png";
+import telephone from "./images/telephone-removebg-preview.png";
 import vCard from "vcards-js";
 
 //=====================VCF====================
@@ -143,6 +144,13 @@ const BusinessCard = ({ employee }) => {
             <Info>
               <p>{employee.contact}</p>
               <h4>Mobile</h4>
+            </Info>
+          </Contact>
+           <Contact>
+            <Icon src={telephone} alt="Telephone" height={30} width={30} />
+            <Info>
+              <p>+632-8553-9142 / +632-8553-9143</p>
+              <h4>Telephone</h4>
             </Info>
           </Contact>
           <Contact>
