@@ -12,6 +12,7 @@ import sarah from "./images/sarah.jpg";
 import rolli from "./images/rolli.jpg";
 import analou from "./images/analou.jpg";
 import jose from "./images/jose.jpg";
+import blank from "./images/blank.jpg";
 
 import {
   BrowserRouter as Router,
