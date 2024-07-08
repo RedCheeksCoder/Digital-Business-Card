@@ -159,11 +159,22 @@ const employees = [
     firstName: "Jose",
     middleName: "R.",
     lastName: "Sumalabe",
-    contact: "+639088959061",
+    contact: "+639209656730",
     position: "R&D Automation Manager",
     email: "jrsumalabe@inzpect.com",
     displayPic: jose,
-  }
+  },
+  {
+    id: 14,
+    name: "Laya, Maria Teresa S.",
+    firstName: "Maria Teresa",
+    middleName: "S.",
+    lastName: "Laya",
+    contact: "+6399189293343",
+    position: "Personel Manager",
+    email: "neng.laya@inzpect.com",
+    displayPic: blank,
+  },
 ];
 
 const imageData = [{ airplane: "./account.png" }];
