@@ -152,7 +152,7 @@ const employees = [
     contact: "+639088959061",
     position: "Technical Sales",
     email: "jon.gianan@inzpect.com",
-    displayPic: rolli,
+    displayPic: blank,
   },
   {
     id: 13,
