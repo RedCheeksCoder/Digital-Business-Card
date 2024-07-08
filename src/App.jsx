@@ -11,6 +11,7 @@ import ruth from "./images/ruth.jpg";
 import sarah from "./images/sarah.jpg";
 import rolli from "./images/rolli.jpg";
 import analou from "./images/analou.jpg";
+import jose from "./images/jose.jpg";
 
 import {
   BrowserRouter as Router,
@@ -152,6 +153,17 @@ const employees = [
     email: "jon.gianan@inzpect.com",
     displayPic: rolli,
   },
+  {
+    id: 13,
+    name: "Sumalabe, Jose R.",
+    firstName: "Jose",
+    middleName: "R.",
+    lastName: "Sumalabe",
+    contact: "+639088959061",
+    position: "R&D Automation Manager",
+    email: "jrsumalabe@inzpect.com",
+    displayPic: jose,
+  }
 ];
 
 const imageData = [{ airplane: "./account.png" }];
